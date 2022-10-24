@@ -1,0 +1,92 @@
+[
+    {
+      "_id": "6356f19a53472a8b1da37f39",
+      "isActive": true,
+      "rating": "4.9",
+      "picture": "https://i.ibb.co/9pX15h8/javascript-logo-0.png",
+      "name": "Arnold Spence",
+      "intro": "JavaScript, often abbreviated as JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. As of 2022, 98% of websites use JavaScript on the client side for webpage behavior, often incorporating third-party libraries. All major web browsers have a dedicated JavaScript engine to execute the code on users' devices.",
+      "title": "JAVASCRIPT Beginner To Advanced",
+      "about": "JavaScript (JS) is a lightweight, interpreted, or just-in-time compiled programming language with first-class functions. While it is most well-known as the scripting language for Web pages, many non-browser environments also use it, such as Node.js, Apache CouchDB and Adobe Acrobat. JavaScript is a prototype-based, multi-paradigm, single-threaded, dynamic language, supporting object-oriented, imperative, and declarative (e.g. functional programming) styles. Read more about JavaScript.This section is dedicated to the JavaScript language itself, and not the parts that are specific to Web pages or other host environments. For information about APIs that are specific to Web pages, please see Web APIs and DOM.The standards for JavaScript are the ECMAScript Language Specification (ECMA-262) and the ECMAScript Internationalization API specification (ECMA-402). As soon as one browser implements a feature, we try to document it. This means that cases where some proposals for new ECMAScript features have already been implemented in browsers, documentation and examples in MDN articles may use some of those new features. Most of the time, this happens between the stages 3 and 4, and is usually before the spec is officially published. Do not confuse JavaScript with the Java programming language. Both Java and JavaScript are trademarks or registered trademarks of Oracle in the U.S. and other countries. However, the two programming languages have very different syntax, semantics, and use. "
+    },
+    {
+      "_id": "6356f19acf8eba24b8ec61df",
+      "isActive": false,
+      "rating": "4.3",
+      "picture": "https://i.ibb.co/Kr0rsW6/php-programming-language.jpg",
+      "name": "Dora Kelly",
+      "intro": "PHP is a general-purpose scripting language geared toward web development.[5] It was originally created by Danish-Canadian programmer Rasmus Lerdorf in 1993.[6] The PHP reference implementation is now produced by The PHP Group.[7] PHP originally stood for Personal Home Page,[8] but it now stands for the recursive initialism PHP: Hypertext Preprocessor.[9]",
+      "title": "PHP For Web",
+      "about": "The PHP Hypertext Preprocessor (PHP) is a programming language that allows web developers to create dynamic content that interacts with databases. PHP is basically used for developing web based software applications. This tutorial helps you to build your base with PHP. Why to Learn PHP? PHP started out as a small open source project that evolved as more and more people found out how useful it was. Rasmus Lerdorf unleashed the first version of PHP way back in 1994.PHP is a MUST for students and working professionals to become a great Software Engineer specially when they are working in Web Development Domain. I will list down some of the key advantages of learning PHP:PHP is a recursive acronym for PHP: Hypertext Preprocessor. PHP is a server side scripting language that is embedded in HTML. It is used to manage dynamic content, databases, session tracking, even build entire e-commerce sites.It is integrated with a number of popular databases, including MySQL, PostgreSQL, Oracle, Sybase, Informix, and Microsoft SQL Server.PHP is pleasingly zippy in its execution, especially when compiled as an Apache module on the Unix side. The MySQL server, once started, executes even very complex queries with huge result sets in record-setting time.PHP supports a large number of major protocols such as POP3, IMAP, and LDAP. PHP4 added support for Java and distributed object architectures (COM and CORBA), making n-tier development a possibility for the first time.PHP is forgiving: PHP language tries to be as forgiving as possible.PHP Syntax is C-Like."
+    },
+    {
+      "_id": "6356f19a66fc04f068efbece",
+      "isActive": true,
+      "rating": "4.7",
+      "picture": "https://i.ibb.co/DYPhJDm/Python-Programming.png",
+      "name": "Janna Watts",
+      "intro": "Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation.[33]Python is dynamically-typed and garbage-collected. It supports multiple programming paradigms, including structured (particularly procedural), object-oriented and functional programming. It is often described as a batteries included language due to its comprehensive standard library",
+      "title": "Python A to Z",
+      "about": "This Python tutorial has been written for the beginners to help them understand the basic to advanced concepts of Python Programming Language. After completing this tutorial, you will find yourself at a great level of expertise in Python, from where you can take yourself to the next levels to become a world class Software Engineer.Python is consistently rated as one of the world's most popular programming languages. Python is fairly easy to learn, so if you are starting to learn any programming language then Python could be your great choice. Today various Schools, Colleges and Universities are teaching Python as their primary programming language. There are many other good reasons which makes Python as the top choice of any programmer:Python is Open Source which means its available free of cost.Python is simple and so easy to learnPython is versatile and can be used to create many different things.Python has powerful development libraries include AI, ML etc.Python is much in demand and ensures high salaryPython is a MUST for students and working professionals to become a great Software Engineer specially when they are working in Web Development Domain. I will list down some of the key advantages of learning Python:Python is Interpreted .Python is processed at runtime by the interpreter. You do not need to compile your program before executing it. This is similar to PERL and PHP.Python is Interactive . You can actually sit at a Python prompt and interact with the interpreter directly to write your programs.Python is Object-Oriented . Python supports Object-Oriented style or technique of programming that encapsulates code within objects.Python is a Beginner's Language . Python is a great language for the beginner-level programmers and supports the development of a wide range of applications from simple text processing to WWW browsers to games."
+    },
+    {
+      "_id": "6356f19afe9e29214e8f021a",
+      "isActive": false,
+      "rating": "4.4",
+      "picture": "https://i.ibb.co/DPFM2Nc/c-pro.jpg",
+      "name": "Rhea Williamson",
+      "intro": "C (pronounced like the letter c) is a general-purpose computer programming language. It was created in the 1970s by Dennis Ritchie, and remains very widely used and influential. By design, C's features cleanly reflect the capabilities of the targeted CPUs. It has found lasting use in operating systems, device drivers, protocol stacks, though decreasingly[6] for application software. C is commonly used on computer architectures that range from the largest supercomputers to the smallest microcontrollers and embedded systems.",
+      "title": "Programming with C",
+      "about": "C language Tutorial with programming approach for beginners and professionals, helps you to understand the C language tutorial easily. Our C tutorial explains each topic with programs.The C Language is developed by Dennis Ritchie for creating system applications that directly interact with the hardware devices such as drivers, kernels, etc. C programming is considered as the base for other programming languages, that is why it is known as mother language."
+    },
+    {
+      "_id": "6356f19a33e85904f0f8be99",
+      "isActive": false,
+      "rating": "4.1",
+      "picture": "https://i.ibb.co/0sqmFFK/java-logo-png.png",
+      "name": "Burton Hahn",
+      "intro": "Our core Java programming tutorial is designed for students and working professionals. Java is an object-oriented, class-based, concurrent, secured and general-purpose computer-programming language. It is a widely used robust technology.",
+      "title": "JAVA for Beginners",
+      "about": "Java is a programming language and a platform. Java is a high level, robust, object-oriented and secure programming language.Java was developed by Sun Microsystems (which is now the subsidiary of Oracle) in the year 1995. James Gosling is known as the father of Java. Before Java, its name was Oak. Since Oak was already a registered company, so James Gosling and his team changed the name from Oak to Java.Platform: Any hardware or software environment in which a program runs, is known as a platform. Since Java has a runtime environment (JRE) and API, it is called a platform."
+    },
+    {
+      "_id": "6356f19aa9a14a327a6610da",
+      "isActive": true,
+      "rating": "4.6",
+      "picture": "https://i.ibb.co/RNgmLtf/R-logo-svg.png",
+      "name": "Natalia Compton",
+      "intro": "R Programming Tutorial is designed for both beginners and professionals. Our tutorial provides all the basic and advanced concepts of data analysis and visualization.R is a software environment which is used to analyze statistical information and graphical representation. R allows us to do modular programming using functions.",
+      "title": "R (Programming Language)",
+      "about": "R is an interpreted computer programming language which was created by Ross Ihaka and Robert Gentleman at the University of Auckland, New Zealand. The R Development Core Team currently develops R. It is also a software environment used to analyze statistical information, graphical representation, reporting, and data modeling. R is the implementation of the S programming language, which is combined with lexical scoping semantics.R not only allows us to do branching and looping but also allows to do modular programming using functions. R allows integration with the procedures written in the C, C++, .Net, Python, and FORTRAN languages to improve efficiency.In the present era, R is one of the most important tool which is used by researchers, data analyst, statisticians, and marketers for retrieving, cleaning, analyzing, visualizing, and presenting data."
+    },
+    {
+      "_id": "6356f19ae2e608af18470742",
+      "isActive": false,
+      "rating": "3.9",
+      "picture": "https://i.ibb.co/8rsrChk/c-pro.png",
+      "name": "Morrow Ortega",
+      "intro": "C# tutorial provides basic and advanced concepts of C#. Our C# tutorial is designed for beginners and professionals.C# is a programming language of .Net Framework.Our C# tutorial includes all topics of C# such as first example, control statements, objects and classes, inheritance, constructor, destructor, this, static, sealed, polymorphism, abstraction, abstract class, interface, namespace, encapsulation, properties, indexer, arrays, strings, regex, exception handling, multithreading, File IO, Collections etc.",
+      "title": "Basic C#",
+      "about": "What is C#? C# is pronounced as C-Sharp. It is an object-oriented programming language provided by Microsoft that runs on .Net Framework.By the help of C# programming language, we can develop different types of secured and robust applications:Window applicationsWeb applicationsDistributed applicationsWeb service applicationsDatabase applications etc.C# is approved as a standard by ECMA and ISO. C# is designed for CLI (Common Language Infrastructure). CLI is a specification that describes executable code and runtime environment.C# programming language is influenced by C++, Java, Eiffel, Modula-3, Pascal etc. languages"
+    },
+    {
+      "_id": "6356f19a3faf204e33cba2ea",
+      "isActive": true,
+      "rating": "4.7",
+      "picture": "https://i.ibb.co/yRcnLKv/swift.png",
+      "name": "Ellen Rocha",
+      "intro": "Our Swift Tutorial provides basic and advanced concepts of Swift. This tutorial is designed for beginners and professionals.",
+      "title": "Swift Basic to Intermediate",
+      "about": "Our Swift Tutorial provides basic and advanced concepts of Swift. This tutorial is designed for beginners and professionals.Swift is a general purpose programming language for developing iOS applications. It is developed by Apple Inc.Our Swift tutorial includes all topics of Swift Programming such as what is swift, History of Swift, Features of Swift, Swift vs Other Programming Languages, Environment Setup, First Swift Program, Syntax, Datatypes, Variables, Constants & Literals, Operators, Control Statements, Loops, Strings, Functions, Collection etc."
+    },
+    {
+      "_id": "6356f19a1532cce87179dfe5",
+      "isActive": false,
+      "rating": "4.3",
+      "picture": "https://i.ibb.co/8MpWYHy/kotlin.png",
+      "name": "Marcella Atkinson",
+      "intro": "Kotlin tutorial provides basic and advanced concepts of Kotlin programming language. Our Kotlin tutorial is designed for beginners and professionals both.Kotlin is a statically-typed, general-purpose programming language. It is widely used to develop android applications.",
+      "title": "Kotlin For Beginners",
+      "about": "Kotlin tutorial provides basic and advanced concepts of Kotlin programming language. Our Kotlin tutorial is designed for beginners and professionals both.Kotlin is a statically-typed, general-purpose programming language. It is widely used to develop android applications. Our Kotlin Tutorial includes all topics of Kotlin such as introduction, architecture, class, object, inheritance, interface, generics, delegation, functions, mixing Java and Kotlin, Java vs. Kotlin, etc.What is Kotlin? Kotlin is a general-purpose, statically typed, and open-source programming language. It runs on JVM and can be used anywhere Java is used today. It can be used to develop Android apps, server-side apps and much more. History of Kotlin: Kotlin was developed by JetBrains team. A project was started in 2010 to develop the language and officially, first released in February 2016. Kotlin was developed under the Apache 2.0 license.Features of Kotlin: Concise: Kotlin reduces writing the extra codes. This makes Kotlin more concise. Null safety: Kotlin is null safety language. Kotlin aimed to eliminate the NullPointerException (null reference) from the code.Interoperable. Interoperable: Kotlin easily calls the Java code in a natural way as well as Kotlin code can be used by Java. Smart cast: It explicitly typecasts the immutable values and inserts the value in its safe cast automatically. Compilation Time: It has better performance and fast compilation time. Tool-friendly: Kotlin programs are build using the command line as well as any of Java IDE. Extension function: Kotlin supports extension functions and extension properties which means it helps to extend the functionality of classes without touching their code."
+    }
+  ]
