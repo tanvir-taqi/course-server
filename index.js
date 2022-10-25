@@ -11,7 +11,7 @@ app.use(cors())
 
 
 app.get('/',(req,res)=>{
-    res.send('hello world!! app is running')
+    res.send('hello world!!! app is running')
 })
 
 app.get('/courses', (req,res)=>{
